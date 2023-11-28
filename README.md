@@ -1,5 +1,5 @@
 <a href='https://hub.docker.com/' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://raw.githubusercontent.com/ggjiuw/2_homework271123_docker/main/github_assets/DockerLogo.png' border='0' alt='Docker' />
-<div id="top"></div>
+
 ```DockerFile
 FROM python:3.10.3-slim
 
