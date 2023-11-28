@@ -1,4 +1,3 @@
-я виправив, тепер воно працює (фото в README.md)
 ![DockerFile](https://raw.githubusercontent.com/ggjiuw/2_homework271123_docker/main/github_assets/DockerLogo.png)
 ```DockerFile
 FROM python:3.10.3-slim
